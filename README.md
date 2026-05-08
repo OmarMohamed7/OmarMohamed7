@@ -17,19 +17,31 @@ Building production-grade AI systems with LLMs, retrieval pipelines, and scalabl
 
 # 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-00A67E?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]
+[![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow)]
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)]
+[![LangGraph](https://img.shields.io/badge/LangGraph-00A67E?style=flat-square)]
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)]
+[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)]
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)]
+[![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FA520F?logo=mistral-ai&logoColor=fff)]
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)]
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6B6B?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF6B35?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff)]
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)]
+[![MLflow](https://img.shields.io/badge/MLflow-F4AA41?logo=MLflow&logoColor=black)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)]
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)]
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)]
+[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)]
+[![Qdrant](https://img.shields.io/badge/Qdrant-FF6B35?style=flat-square)]
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)]
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)]
+[![Gradio](https://img.shields.io/badge/Gradio-F97316?logo=Gradio&logoColor=white)]
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)]
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)]
 
 ---
 

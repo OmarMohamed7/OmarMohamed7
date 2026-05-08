@@ -15,7 +15,25 @@ Building production-grade AI systems with LLMs, retrieval pipelines, and scalabl
 
 ---
 
-## Core Expertise
+# 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-00A67E?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6B6B?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF6B35?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+
+---
+
+## 💡 Core Expertise
 
 ### AI Systems & LLM Engineering
 
@@ -42,7 +60,7 @@ Building production-grade AI systems with LLMs, retrieval pipelines, and scalabl
 - Automating development workflows with CI/CD pipelines and deployment tooling
 - Designing production-ready architectures focused on scalability, reliability, and performance
 
-# Featured Projects
+# 📌 Featured Projects
 
 ## 🤖 AI Retail Agent — Multi-Agent Analytics System
 
@@ -106,32 +124,7 @@ Machine learning pipeline for customer churn prediction with explainability and 
 
 ---
 
-# Tech Stack
-
-### Languages & Frameworks
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-00A67E?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-
-### ML & Data
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6B6B?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-### Infrastructure & Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF6B35?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-
----
-
-# Professional Experience
+# 💼 Professional Experience
 
 ## Senior Software Engineer — Rasan (Fintech)
 **Dec 2024 – Present**
@@ -149,25 +142,19 @@ to 20 minutes and reducing manual errors by 90%.
 - Mentored junior engineers on Clean Architecture and testing practices
 - Participated in technical planning and system design discussions
 
----
-
-# Education
-
-## M.Sc. in Data Science
-Cairo University — Present
-
-## B.Sc. in Computer Engineering
-Modern Academy for Engineering, Cairo
 
 ---
-
-# Certifications
-
+ 
+## 🎓 Education & Certifications
+ 
+### Education
+- **M.Sc. in Data Science** — Cairo University *(In Progress)*
+- **B.Sc. Computer Engineering** — Modern Academy for Engineering, Cairo
+### Certifications & Training
 - Data Science Nanodegree — Udacity
-- Data Science Internship — DEPI
-- Data Science Internship — ALX
+- Data Science Internship — DEPI (Nov 2024 - May 2025)
+- Data Science Internship — ALX (Jun 2023 - Sep 2024)
 - Android Nanodegree — Udacity
-
 ---
 
 # Current Focus
@@ -180,16 +167,17 @@ Modern Academy for Engineering, Cairo
 
 ---
 
-# Connect With Me
-
-- GitHub: https://github.com/OmarMohamed7
-- LinkedIn: https://www.linkedin.com/in/omar-mohamed-476963112/
-- Email: engomar.mohamed7@gmail.com
-
+## 🤝 Connect With Me
+ 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmarMohamed7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-mohamed-476963112/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engomar.mohamed7@gmail.com)
+ 
 ---
 
 <div align="center">
-
-Building AI systems that are practical, scalable, and production-ready.
-
+### Thanks for visiting! 👋
+ 
+**Building AI systems that are practical, scalable, and production-ready.**
+   
 </div>

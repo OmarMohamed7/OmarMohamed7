@@ -176,7 +176,6 @@ to 20 minutes and reducing manual errors by 90%.
 ---
 
 <div align="center">
-### Thanks for visiting! 👋
  
 **Building AI systems that are practical, scalable, and production-ready.**
    

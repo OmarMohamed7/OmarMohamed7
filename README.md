@@ -1,208 +1,195 @@
-# Hi there, I'm Omar 👋
+<div align="center">
 
-## AI/ML Engineer | Data Scientist
+# Hi there, I'm Omar Mohamed 👋
 
-I'm passionate about building intelligent systems using Large Language Models, RAG pipelines, and machine learning. Currently pursuing M.Sc. in Data Science at Cairo University while working on production-grade AI applications.
+## AI Systems Engineer | LLMs • RAG • Production ML
 
----
+</div>
 
-## 🔭 I'm Currently Working On
+Building production-grade AI systems with LLMs, retrieval pipelines, and scalable backend infrastructure.
 
-- 🤖 **Multi-Agent LLM Systems** - Building intelligent agents with LangGraph for dynamic RAG/SQL/Hybrid routing & Vector-less RAG
-- 🔍 **Production RAG Pipelines** - Semantic search systems with vector databases and optimized retrieval strategies  
-- 📊 **ML/Data Science** - End-to-end pipelines with feature engineering, XGBoost/Random Forest, and SHAP explainability
-- 🚀 **AI System Deployment** - Containerized applications with FastAPI, Docker, and cloud infrastructure
-- 🌐 **Open-Source Contributions** - Contributing to LLM/ML frameworks and communities
-
-## 🌱 I'm Currently Learning
-
-- 📚 LLM fine-tuning, prompt engineering, and domain adaptation techniques
-- 🎯 Advanced evaluation metrics and benchmarking frameworks for LLMs
-- 🔗 Vector embeddings, semantic search optimization, and similarity metrics
-- ⚙️ MLOps, model serving, monitoring, and continuous deployment
-- 🤖 Multi-modal AI and vision-language model integration
+- M.Sc. in Data Science — Cairo University
+- 5+ years in software engineering and system design
+- Focused on RAG, multi-agent systems, and AI infrastructure
+- Open to AI/ML Engineer and Data Scientist opportunities
 
 ---
 
-## 🚀 About Me
+## Core Expertise
 
-- 🔬 **Specialization**: Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Multi-Agent AI Systems
-- 💻 **Background**: 5+ years in production software engineering with system design and scalability expertise
-- 📚 **Education**: M.Sc. in Data Science (Cairo University) | B.Sc. Computer Engineering
-- 📍 **Location**: Cairo, Egypt
-- 💼 **Open to**: AI/ML roles, Data Scientist
-- ⚡ **Passion**: Building real-world intelligent systems that solve business problems
+### AI Systems & LLM Engineering
 
----
+- Designing and deploying Retrieval-Augmented Generation (RAG) pipelines for production AI applications
+- Building multi-agent orchestration workflows using LangGraph and tool-based routing
+- Developing hybrid retrieval systems combining SQL querying with semantic search
+- Engineering structured-output LLM pipelines with prompt optimization and validation
+- Optimizing vector embeddings, retrieval relevance, and semantic ranking strategies
+- Running offline LLM inference workflows with Ollama for privacy-focused deployments
 
-## 🛠️ Tech Stack
+### Machine Learning & Data Science
 
-### AI/ML & LLMs
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-00A67E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCBmaWxsPSJ3aGl0ZSIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ii8+PC9zdmc+)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+- Developing end-to-end machine learning pipelines from preprocessing to deployment
+- Performing feature engineering, model evaluation, and performance optimization
+- Training and tuning ensemble models using XGBoost, Random Forest, and Scikit-learn
+- Building explainable AI workflows using SHAP for model interpretability
+- Conducting exploratory data analysis, statistical testing, and data preprocessing
 
-### Data Science & ML
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6B6B?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge)
+### Backend & Infrastructure
 
-### Databases & Vector Search
-![Qdrant](https://img.shields.io/badge/Qdrant-FF6B35?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-0066FF?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+- Building scalable backend services and REST APIs using FastAPI and Python
+- Deploying containerized AI and backend applications with Docker
+- Managing relational and vector databases including PostgreSQL and Qdrant
+- Automating development workflows with CI/CD pipelines and deployment tooling
+- Designing production-ready architectures focused on scalability, reliability, and performance
 
-### Deployment & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0099CC?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+# Featured Projects
 
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🤖 AI Retail Agent — Multi-Agent Analytics System
 
----
+Multi-agent AI system designed for retail analytics using dynamic routing between SQL retrieval, semantic search, and hybrid workflows.
 
-## 📌 Featured Projects
+### Highlights
 
-### 1. 🤖 AI Retail Agent - Multi-Agent LLM System
-**Building intelligent retail analytics with autonomous agents**
+- Built agent orchestration workflows using LangGraph
+- Implemented vector-less retrieval using TF-IDF + semantic ranking
+- Added intelligent query routing based on query intent and complexity
+- Integrated offline inference using Ollama for privacy-focused deployments
+- Optimized caching and retrieval strategies for low-latency responses
 
-- **Description**: Multi-agent system for retail analytics using LangGraph with intelligent routing between RAG, SQL, and hybrid query modes
-- **Key Features**:
-  - Dynamic mode selection based on query complexity
-  - TF-IDF based RAG pipeline for contextual knowledge retrieval
-  - End-to-end NLP pipeline with constraint extraction and error recovery
-  - Offline inference with Ollama for data privacy
-  - Sub-second query latency with optimized caching
-- **Tech Stack**: LangGraph, RAG, TF-IDF, Ollama, Python, FastAPI, Vector Databases
-- **Impact**: Reduced query latency by 70%, improved accuracy by enabling intelligent routing
-- **Repository**: [View on GitHub](#)
+### Stack
 
-### 2. 🔍 Question Answering RAG System
-**Production-ready semantic search and question answering**
+`Python` `FastAPI` `LangGraph` `Ollama` `PostgreSQL`
 
-- **Description**: End-to-end RAG system for semantic search and QA using Python and FastAPI
-- **Key Features**:
-  - Full NLP pipeline: preprocessing → embedding → chunking → retrieval
-  - Semantic chunking with 512-2048 token windows
-  - Multi-vector database integration (Qdrant + Pinecone)
-  - Dynamic top-k parameter tuning (3-10 results)
-  - Relevance-based ranking and result optimization
-  - Low-latency inference with OpenAI LLMs
-- **Performance**: 85%+ accuracy on relevance ranking, sub-500ms response time
-- **Tech Stack**: Python, FastAPI, Qdrant, Pinecone, OpenAI API, NLP
-- **Repository**: [View on GitHub](#)
-
-### 3. 📊 Customer Churn Prediction Model
-**End-to-end ML pipeline with explainable predictions**
-
-- **Description**: Complete machine learning workflow from data preparation to interactive dashboard deployment
-- **Key Features**:
-  - Exploratory data analysis and statistical testing (chi-square, correlation)
-  - Comprehensive feature engineering pipeline
-  - Model ensemble: Random Forest + XGBoost
-  - SHAP explainability for model interpretability
-  - Interactive Streamlit dashboard for business stakeholders
-  - Live deployment on Streamlit Cloud
-- **Performance**: 87% prediction accuracy on test set, 90%+ precision on high-risk customers
-- **Tech Stack**: Scikit-learn, XGBoost, Streamlit, SHAP, Python, Pandas
-- **Impact**: Enabled proactive customer retention strategies, reducing churn by ~8%
-- **Repository**: [View on GitHub](#)
+**Repository:** [View on GitHub](https://github.com/OmarMohamed7/retail-ai-agent)
 
 ---
 
-## 💼 Professional Experience
+## 🔍 Production RAG Question Answering System
 
-### Senior Software Engineer | Rasan (Fintech) | Dec 2024 - Present
-- Owned full software engineering lifecycle: architecture, development, testing, deployment
-- Integrated monitoring tools reducing crash-free rate by 15%
-- Designed A/B testing framework driving 12% uplift in user engagement
-- Automated CI/CD pipeline reducing release time from 60 to 20 minutes (66% reduction)
+Production-oriented retrieval system for semantic search and document question answering.
 
-### Software Engineer | Shelter Technology | May 2021 - Dec 2024
-- Led full-stack development of system processing 100,000+ government records
-- Optimized database performance significantly improving query efficiency
-- Mentored junior engineers on Clean Architecture and TDD (20% test coverage improvement)
-- Established knowledge-sharing sessions elevating team productivity and code quality
+### Highlights
 
----
+- Built full RAG pipeline from preprocessing to retrieval and generation
+- Implemented semantic chunking and dynamic retrieval strategies
+- Integrated Qdrant and Pinecone for vector search experimentation
+- Tuned retrieval relevance with top-k optimization and ranking pipelines
+- Exposed inference APIs using FastAPI
 
-## 🎓 Education & Certifications
+### Stack
 
-### Education
-- 🎯 **M.Sc. in Data Science** | Cairo University | 2026 - Present
-- 🎓 **B.Sc. Computer Engineering** | Modern Academy for Engineering, Cairo | 2015 - 2020
+`Python` `FastAPI` `Qdrant` `Pinecone` `OpenAI API`
 
-### Certifications & Training
-- 📜 **Data Science Nanodegree** - Udacity (Data streaming, ML pipelines, visualization, predictive analytics)
-- 📜 **Data Science Internship** - DEPI (Nov 2024 - May 2025) - ML models, data pipelines, analytics projects
-- 📜 **Data Science Internship** - ALX (Jun 2023 - Sep 2024) - ML fundamentals, AWS, analytics
-- 📜 **Android Nanodegree** - Udacity (Mobile development fundamentals)
+**Repository**: [View on GitHub](https://github.com/OmarMohamed7/mini-rag)
 
 ---
 
-## 🤝 Connect With Me
+## 📊 Customer Churn Prediction Pipeline
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-mohamed-476963112/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engomar.mohamed7@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](Comming Soon)
+Machine learning pipeline for customer churn prediction with explainability and interactive analytics.
 
----
+### Highlights
 
-## 💬 Let's Talk About
+- Performed EDA, statistical analysis, and feature engineering
+- Trained ensemble models using Random Forest and XGBoost
+- Added SHAP explainability for business interpretability
+- Built Streamlit dashboard for prediction monitoring and visualization
+- Evaluated model performance using precision, recall, and ROC-AUC metrics
 
-- Large Language Models and LLM applications
-- Retrieval-Augmented Generation and semantic search
-- Multi-agent AI systems and autonomous agents
-- Machine learning pipelines and data science
-- Software engineering best practices
-- Production ML and MLOps
-- Open-source AI/ML projects
+### Stack
 
----
+`Scikit-learn` `XGBoost` `Streamlit`
 
-## 🎯 2026 Goals
+**Repository**: [View on GitHub](https://github.com/OmarMohamed7/Churn)
 
-✨ Deploy 5+ production AI systems | 🔗 Contribute to major open-source AI projects | 📝 Publish technical articles on AI/ML | 📚 Complete M.Sc. with distinction
+**Demo**: [Streamlit](https://churnn.streamlit.app/)
 
 ---
 
-## ⚡ Fun Facts
+# Tech Stack
 
-- 🌍 Fluent in Arabic (Native) and English (Proficient)
-- 🧠 Passionate about the intersection of AI and software engineering
-- 💬 Always open for discussions about LLMs, RAG, and AI agents
-- ☕ Powered by coffee and curiosity
-- 🚀 Believe in building things that matter
+### Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-00A67E?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+
+### ML & Data
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6B6B?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+### Infrastructure & Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF6B35?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 
 ---
 
-## 🔗 Quick Links
+# Professional Experience
 
-- **GitHub**: [github.com/OmarMohamed7](https://github.com/OmarMohamed7)
-- **LinkedIn**: [linkedin.com/in/Omar](https://www.linkedin.com/in/omar-mohamed-476963112/)
-- **Portfolio**: Coming Soon
-- **Email**: [your.email@gmail.com](mailto:engomar.mohamed7@gmail.com)
+## Senior Software Engineer — Rasan (Fintech)
+**Dec 2024 – Present**
+
+- Building and maintaining cross-platform Flutter applications serving 4M+ active users in the Fintech
+sector.
+- Automating build and release pipeline with Azure CI/CD, cutting average release time from 60 minutes
+to 20 minutes and reducing manual errors by 90%.
+
+## Software Engineer — Shelter Technology
+**May 2021 – Dec 2024**
+
+- Developed systems handling large-scale government-related datasets
+- Optimized backend performance and database operations
+- Mentored junior engineers on Clean Architecture and testing practices
+- Participated in technical planning and system design discussions
+
+---
+
+# Education
+
+## M.Sc. in Data Science
+Cairo University — Present
+
+## B.Sc. in Computer Engineering
+Modern Academy for Engineering, Cairo
+
+---
+
+# Certifications
+
+- Data Science Nanodegree — Udacity
+- Data Science Internship — DEPI
+- Data Science Internship — ALX
+- Android Nanodegree — Udacity
+
+---
+
+# Current Focus
+
+- Multi-Agent AI systems
+- Retrieval optimization and evaluation
+- AI infrastructure and deployment
+- MLOps and scalable inference systems
+- Open-source AI tooling
+
+---
+
+# Connect With Me
+
+- GitHub: https://github.com/OmarMohamed7
+- LinkedIn: https://www.linkedin.com/in/omar-mohamed-476963112/
+- Email: engomar.mohamed7@gmail.com
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! 👋
-
-**Always learning, always building. Let's create something amazing together.** ⭐
-
-<a href="https://github.com/omar?tab=followers"><img src="https://img.shields.io/github/followers/omar?label=Follow&style=social" alt="GitHub Badge"></a>
-<a href="https://github.com/omar"><img src="https://img.shields.io/github/stars/omar?label=Stars&style=social" alt="GitHub Badge"></a>
+Building AI systems that are practical, scalable, and production-ready.
 
 </div>
-
----

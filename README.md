@@ -119,14 +119,6 @@ I'm passionate about building intelligent systems using Large Language Models, R
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omar&show_icons=true&theme=tokyonight&count_private=true&hide=stars)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omar&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats)
-
----
-
 ## 💼 Professional Experience
 
 ### Senior Software Engineer | Rasan (Fintech) | Dec 2024 - Present
@@ -157,23 +149,11 @@ I'm passionate about building intelligent systems using Large Language Models, R
 
 ---
 
-## 📈 Key Achievements
-
-- ✨ Built 3 production-grade AI/ML systems with real-world impact
-- 🚀 Transitioned from software engineering to AI/ML with specialized expertise
-- 📊 Achieved 87% accuracy on ML models and 85%+ on semantic search tasks
-- 💡 Developed systems serving 4M+ active users and processing 100k+ records
-- 🔧 Optimized performance across multiple dimensions: latency, accuracy, scalability
-- 📚 Continuously learning with M.Sc. in Data Science in progress
-
----
-
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-mohamed-476963112/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engomar.mohamed7@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](Comming Soon)
 
 ---
 
@@ -191,7 +171,7 @@ I'm passionate about building intelligent systems using Large Language Models, R
 
 ## 🎯 2026 Goals
 
-✨ Deploy 5+ production AI systems | 🔗 Contribute to major open-source AI projects | 📝 Publish technical articles on AI/ML | 🤝 Mentor aspiring ML engineers | 📚 Complete M.Sc. with distinction
+✨ Deploy 5+ production AI systems | 🔗 Contribute to major open-source AI projects | 📝 Publish technical articles on AI/ML | 📚 Complete M.Sc. with distinction
 
 ---
 
@@ -205,29 +185,12 @@ I'm passionate about building intelligent systems using Large Language Models, R
 
 ---
 
-## 📚 Latest Activity
-
-- 🔨 Building advanced LLM applications with function calling
-- 📖 Contributing to open-source AI/ML frameworks
-- 🧪 Experimenting with fine-tuning techniques
-- 💡 Exploring multi-modal AI systems
-- 🚀 Deploying production AI systems
-
----
-
-## 📊 What Others Say
-
-> "Omar brings strong software engineering fundamentals combined with emerging AI/ML expertise. His ability to build production-ready systems and mentor others is exceptional." - *Professional Reference*
-
----
-
 ## 🔗 Quick Links
 
-- **GitHub**: [github.com/omar](https://github.com/omar)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
-- **Blog**: [your-blog.com](https://your-blog.com)
-- **Email**: [your.email@gmail.com](mailto:your.email@gmail.com)
+- **GitHub**: [github.com/OmarMohamed7](https://github.com/OmarMohamed7)
+- **LinkedIn**: [linkedin.com/in/Omar](https://www.linkedin.com/in/omar-mohamed-476963112/)
+- **Portfolio**: Coming Soon
+- **Email**: [your.email@gmail.com](mailto:engomar.mohamed7@gmail.com)
 
 ---
 
@@ -243,5 +206,3 @@ I'm passionate about building intelligent systems using Large Language Models, R
 </div>
 
 ---
-
-*Last updated: May 2026 | Keep building 🚀*

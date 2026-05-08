@@ -4,6 +4,10 @@
 
 ## AI Systems Engineer | LLMs • RAG • Production ML
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-mohamed-476963112/)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](https://drive.google.com/drive/folders/1uTIfUMpFv_Q8EeBBmNEMQj7SQXME8jMW?ths=true)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engomar.mohamed7@gmail.com)
+
 </div>
 
 Building production-grade AI systems with LLMs, retrieval pipelines, and scalable backend infrastructure.

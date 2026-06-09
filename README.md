@@ -2,7 +2,7 @@
 
 # Hi there, I'm Omar Mohamed 👋
 
-## AI Systems Engineer | LLMs • RAG • Production ML
+## Mobile Engineer | AI Systems Engineer | LLMs • RAG • Production ML
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-mohamed-476963112/)
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](https://drive.google.com/drive/folders/1uTIfUMpFv_Q8EeBBmNEMQj7SQXME8jMW?ths=true)

@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Hi there, I'm Omar Mohamed 👋
 
@@ -195,4 +195,4 @@ to 20 minutes and reducing manual errors by 90%.
  
 **Building AI systems that are practical, scalable, and production-ready.**
    
-</div>
+</div> -->

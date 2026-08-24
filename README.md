@@ -44,7 +44,7 @@ An end-to-end video learning platform built around **video processing and adapti
 - PostgreSQL for application data
 - Flutter mobile application for the learning experience
 
-**Repository:** [View on GitHub](YOUR_ELEARNING_REPOSITORY_LINK)
+**Repository:** [View on GitHub](https://github.com/OmarMohamed7/e-learning-app)
 
 ---
 
